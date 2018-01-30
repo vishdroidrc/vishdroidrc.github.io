@@ -1,0 +1,6 @@
+declared the header (h1)
+added the Wikipedia link
+seperated random Boo facts list
+made the list of Boo's favorite things 
+fixed the color buttons respectively 
+fixed the grow and shrink butons \
